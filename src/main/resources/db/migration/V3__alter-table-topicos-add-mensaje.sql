@@ -1,0 +1,1 @@
+alter table topicos add mensaje varchar(200);
