@@ -245,5 +245,5 @@ http://localhost:8080
 ---
 
 # 👨‍💻 Autor
-
+Santiago Monsalve Zapata
 Proyecto desarrollado como práctica de **API REST con Spring Boot, seguridad con JWT y persistencia con JPA**.
